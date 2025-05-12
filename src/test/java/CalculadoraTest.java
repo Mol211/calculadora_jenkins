@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class calculadora_test {
+public class CalculadoraTest {
   private final calculadora calculadora = new calculadora();
 
   @Test
